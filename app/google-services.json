@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "6624724171",
+    "firebase_url": "https://chat-app-e744b.firebaseio.com",
+    "project_id": "chat-app-e744b",
+    "storage_bucket": "chat-app-e744b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6624724171:android:edb5d88d5253b1fd4e074e",
+        "android_client_info": {
+          "package_name": "com.shahriyar.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6624724171-q258h2a5qmu0pnim4odcb9ac6hbcckir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shahriyar.chatapp",
+            "certificate_hash": "2e321730e0b990bdf54f7f8003daade60f7ea8bd"
+          }
+        },
+        {
+          "client_id": "6624724171-702opb1e87vik0cn01eddghmcmi36keg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArJhzXM21iikib_0RFio1WuMhJcuBHRus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6624724171-702opb1e87vik0cn01eddghmcmi36keg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
